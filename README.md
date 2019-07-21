@@ -1,1 +1,1 @@
-The Jupyter notebooks (written in Python) used to generate simulation results reported in the MLM paper.
+The python scripts (in the format of Jupyter notebook) for generating figures in the Physical Review E papers.
